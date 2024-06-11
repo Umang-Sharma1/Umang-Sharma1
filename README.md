@@ -47,8 +47,9 @@ A real-time food delivery platform with an admin dashboard, optimized image hand
 
 ## 📈 GitHub Stats
 
-![Umang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umang-Sharma1&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umang-Sharma1&layout=compact&theme=radical)
+![Umang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umang-Sharma1&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
