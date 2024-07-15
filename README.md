@@ -42,9 +42,6 @@ A full-stack application for booking exciting tours, with dynamic listings and s
 ### [**World Tour**](https://worldtour9760.netlify.app/)
 A personal travel tracking website with interactive maps and a user-friendly interface.
 
-### [**Foodie**](https://foodie.example.com)
-A real-time food delivery platform with an admin dashboard, optimized image handling, and responsive design.
-
 ## 📈 GitHub Stats
 
 
